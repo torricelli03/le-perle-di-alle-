@@ -1,0 +1,10 @@
+Nome, record, numero aiuti
+Luca 0 0
+Luca 6 0
+Luca 0 1
+Luca 10 0
+alle 0 0
+alle 0 1
+alle 0 0
+alle 0 0
+alle 0 0
